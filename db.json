@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "streamID": "kjzl6cwe1jw147ebha7s6dkjr24yvkp1j3vund7gbvtyg6vr3x8m38xx6f1hy2p",
+      "fromName": "firefoxBill",
+      "fromAddr": "0x219079f24db6867f47daefd57c3a549e819008b4",
+      "toAddr": "0x0Db0448c95cad6D82695aC27022D20633C81b387",
+      "read": true,
+      "id": 1
+    },
+    {
+      "streamID": "kjzl6cwe1jw145vn3hbddqnn57tbpvlbks92fytu1lt0dk83ihdfd1n4payuj8q",
+      "fromName": "braveKevin",
+      "fromAddr": "0x0db0448c95cad6d82695ac27022d20633c81b387",
+      "toAddr": "0x219079f24Db6867F47Daefd57C3A549e819008B4",
+      "read": true,
+      "id": 2
+    },
+    {
+      "streamID": "kjzl6cwe1jw145rot4op66k9i5a7v52xiua8kc6x81kiwspu398b4bh5wfgz79m",
+      "fromName": "braveKevin",
+      "fromAddr": "0x0db0448c95cad6d82695ac27022d20633c81b387",
+      "toAddr": "0x219079f24Db6867F47Daefd57C3A549e819008B4",
+      "read": true,
+      "id": 3
+    }
+  ]
+}
